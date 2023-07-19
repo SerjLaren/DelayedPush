@@ -6,4 +6,8 @@
     </style>
 
     <style name="Theme.DelayedPush" parent="Base.Theme.DelayedPush" />
+
+    <style name="AlertDialogTheme" parent="Theme.MaterialComponents.Light.Dialog.Alert">
+        <item name="colorPrimary">@color/primary</item>
+    </style>
 </resources>

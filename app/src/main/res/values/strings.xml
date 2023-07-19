@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">DelayedPush</string>
+    <string name="scr_any_txt_ok">Ок</string>
+    <string name="scr_any_txt_cancel">Отмена</string>
+
+    <string name="ntf_channel_timer_alarm_name">Окончание таймера</string>
+    <string name="ntf_channel_timer_alarm_description">Отображается когда закончился таймер</string>
+
+    <string name="ntf_txt_timer_title">Таймер истек!</string>
+    <string name="ntf_txt_timer_description">Таймер закончился, прошло 10 секунд!</string>
+
+    <string name="scr_any_txt_settings_to_permission">Перейдите в настройки для выдачи разрешения на показ уведомлений</string>
+    <string name="scr_any_notifications_permission_required">Необходимо разрешение на доступ к уведомлениям</string>
+
+    <string name="scr_timer_txt_additional_info">Некоторые производители могут ограничивать приложению доступ к отложенным уведомлениям из-за оптимизации расхода батареи. Если отложенное уведомление работает с перебоями, отключите оптимизацию приложения</string>
+    <string name="scr_timer_btn_settings">В настройки</string>
+    <string name="scr_timer_btn_timer">Старт таймера</string>
+    <string name="scr_timer_txt_timer_started">Таймер запущен</string>
 </resources>
